@@ -1,1 +1,1 @@
-# ml-samples
+# Machine learning samples and experiments
