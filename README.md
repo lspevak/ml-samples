@@ -6,5 +6,12 @@ This is a collection of Jupyter notebooks containing ad-hoc personal experiments
 
 ## Installation
 ```
-pip3 install Keras tensorflow numpy seaborn scikit-learn pandas jupyter opencv-python
+# Jupiter notebooks
+pip3 install jupyter
+# Neural networks, ...
+pip3 install  numpy pandas Keras tensorflow seaborn scikit-learn
+# Face detection support
+pip3 opencv-python
+# Sound classification support
+pip3 install librosa
 ```
