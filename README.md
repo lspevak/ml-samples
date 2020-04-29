@@ -17,4 +17,9 @@ pip3 install librosa
 # Face recognition using dlib
 yum install cmake gcc-c++ python3-devel
 pip3 install face_recognition
+# XGBoost support
+pip3 install xgboost
+# Adaptive Experimentation Platform (Ax)
+pip3 install torch==1.5.0+cpu torchvision==0.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+pip3 install ax-platform
 ```
